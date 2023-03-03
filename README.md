@@ -1,2 +1,3 @@
 # valcy-website
-Home valcy browser website
+Valcy Browser website template.
+https://gamesvisions.com
